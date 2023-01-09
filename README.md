@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Passion Projects
 - 📫 How to reach me - Parker2002hp@gmail.com
-- 📙 Languages - Python,HTML & CSS
+- 📙 Languages - Python,HTML & CSS, C#,SCSS,
 - 🎥 Currently reading Outliers by Malcom Gladwell
 
 <!---
