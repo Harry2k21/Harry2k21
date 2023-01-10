@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Harry2k21
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Passion Projects
 - 📫 How to reach me - Parker2002hp@gmail.com
 - 📙 Languages - Python,HTML & CSS, C#,SCSS,
-- 🎥 Currently reading Outliers by Malcom Gladwell
+- 
+
 
 <!---
 Harry2k21/Harry2k21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
